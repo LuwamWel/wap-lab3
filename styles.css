@@ -3,7 +3,6 @@ body{
 }
 
 .main-wrapper{
-    padding: auto;
     background-color:antiquewhite;
     width: 900px;
     height: auto;
@@ -24,7 +23,7 @@ table{
     width: 99%;
     height: 99%;
     text-align: center;
-    font-size: 16;
+    font-size: 16px;
     margin-left: 4px;
 }
  
@@ -38,7 +37,7 @@ div{
 
 .cart-icon {
     margin: 0 auto;
-    width: 70x; 
+    width: 70px; 
     height: 30px; 
 }
 
@@ -71,11 +70,6 @@ tfoot{
     margin-right: 10px;
     margin-top: 8px;
     float: right;
-}
-
-span .welcome{
-    margin: center;
-    float:center;
 }
 
 #htmlchecker-image,  #csschecker-image{
